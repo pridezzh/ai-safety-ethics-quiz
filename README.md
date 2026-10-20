@@ -18,9 +18,9 @@
 - 多个关键词用空格分隔，表示同时包含；按 `/` 聚焦搜索，按 `Esc` 清空。
 - 开启自测模式后，点击“参考答案”展开；点击配图可放大。
 - 地址栏链接保留当前搜索与筛选条件，可复制分享。
-- 下载 `index.html` 可离线检索文字；配图通过原仓库链接加载，需要联网。
+- 下载 `index.html` 后用浏览器打开，即可离线检索和查看配图，无需安装依赖。
 
-## 来源
+## 答案说明
 
-题目、原稿参考答案及配图来自 [LazzyXP/AI-Security-and-Ethics-BeiHang-University](https://github.com/LazzyXP/AI-Security-and-Ethics-BeiHang-University)。答案沿用原稿，仅供学习参考。
+题目与参考答案用于课程复习，答案沿用题库原稿，请结合课程讲义核对。
 
