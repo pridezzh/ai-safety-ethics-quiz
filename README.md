@@ -1,25 +1,26 @@
-# 人工智能安全与伦理 · 北航
+# 人工智能安全与伦理题库检索
 
-> **人工智能安全与伦理** 课程学习内容  
+**[打开搜索网页](https://pridezzh.github.io/ai-safety-ethics-quiz/)**
 
-[![GitHub stars](https://img.shields.io/github/stars/LazzyXP/AI-Security-and-Ethics-BeiHang-University?style=social)](https://github.com/LazzyXP/AI-Security-and-Ethics-BeiHang-University)
-[![GitHub repo size](https://img.shields.io/github/repo-size/LazzyXP/AI-Security-and-Ethics-BeiHang-University)](https://github.com/LazzyXP/AI-Security-and-Ethics-BeiHang-University)
-[![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+收录6章280道题，输入题干、术语或答案即可检索，支持章节筛选、看图题筛选、自测与题答复制。
 
+| 章节 | 题数 |
+|---|---:|
+| 第一章 · AI安全与伦理概述 | 18 |
+| 第二章 · 对抗攻击方法 | 45 |
+| 第三章 · 对抗防御方法 | 41 |
+| 第四章 · 后门攻击与防御 | 63 |
+| 第五章 · AI伦理技术 | 56 |
+| 第六章 · 攻击在AI伦理中的良性应用 | 57 |
 
-## 📥 下载链接
+## 使用
 
-- [下载 PDF 资料](https://raw.githubusercontent.com/LazzyXP/AI-Security-and-Ethics-BeiHang-University/main/pdf/人工智能安全与伦理-北航.pdf)
+- 多个关键词用空格分隔，表示同时包含；按 `/` 聚焦搜索，按 `Esc` 清空。
+- 开启自测模式后，点击“参考答案”展开；点击配图可放大。
+- 地址栏链接保留当前搜索与筛选条件，可复制分享。
+- 下载 `index.html` 可离线检索文字；配图通过原仓库链接加载，需要联网。
 
-## ⭐ Star 趋势
+## 来源
 
-[![Star History Chart](https://api.star-history.com/svg?repos=LazzyXP/AI-Security-and-Ethics-BeiHang-University)](https://www.star-history.com/#LazzyXP/AI-Security-and-Ethics-BeiHang-University)
-
-
-##  贡献者
-
-<a href="https://github.com/LazzyXP/AI-Security-and-Ethics-BeiHang-University/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=LazzyXP/AI-Security-and-Ethics-BeiHang-University" />
-</a>
-
+题目、原稿参考答案及配图来自 [LazzyXP/AI-Security-and-Ethics-BeiHang-University](https://github.com/LazzyXP/AI-Security-and-Ethics-BeiHang-University)。答案沿用原稿，仅供学习参考。
 
